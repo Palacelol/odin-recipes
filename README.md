@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project One: 
+Odin Project One: First Project to highlight HTML fundamentals
