@@ -1,0 +1,38 @@
+* {
+    background-color: beige;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2 {
+    color: red;
+    
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    font-size: 50px;
+}
+
+ol,
+ul {
+    font-size: 35px;
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+h1 {
+    font-size: 65px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+
